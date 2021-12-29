@@ -1,0 +1,14 @@
+Matt Ely (811-653-312)
+
+    NOTE: 3 test files 'a.txt', 'b.txt', 'c.txt' were added
+    to test the functionality of the cat class.
+
+    To compile: type 'make'
+
+    To run: type './cat [filename]'
+    - there can be several filename arguments
+    - if '-' is an argument, standard input will be printed
+    - if no filename arguments, standard input will be printed
+    - 'make run' will print the text files as specified in the makefile
+
+    To clean: type 'make clean'
